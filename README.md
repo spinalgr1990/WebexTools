@@ -27,6 +27,11 @@ https://www.cisco.com/c/dam/en/us/td/docs/collaboration/webex_centers/Collaborat
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+plugin location :
+x32 system   C:\Program Files\Webex\Webex\500
+x64 system   C:\Program Files (x86)\Webex\Webex\500
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 NBR Player download link :
 
 http://www.webex.com/play-webex-recording.html
